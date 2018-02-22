@@ -1,0 +1,6 @@
+hash: 3d5f583376120189391fc859c600e6139794aa92565fc412139a12d59d1a9b3d
+updated: 2018-02-22T16:23:30.690619+08:00
+imports:
+- name: github.com/boltdb/bolt
+  version: 2f1ce7a837dcb8da3ec595b1dac9d0632f0f99e8
+testImports: []
